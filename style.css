@@ -30,7 +30,6 @@ img {
 }
 
 .container{
-    border: 1px solid blue;
     display: flex;
     justify-content: center;
     min-height: 100vh;
